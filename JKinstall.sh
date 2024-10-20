@@ -10,5 +10,5 @@ https://github.com/MARKETTV1/plugins/raw/refs/heads/main/enigma2-plugin-extensio
 
 opkg install /tmp/*.ipk
 
-f && init 4; sleep 4; init 3
+&& init 4; sleep 4; init 3
 
