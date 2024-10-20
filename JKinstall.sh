@@ -8,5 +8,5 @@ https://github.com/MARKETTV1/plugins/raw/refs/heads/main/enigma2-plugin-extensio
 echo "Please wait a moment";
 wait
 opkg install /tmp/*.ipk
-&& init 4; sleep 4; init 3
+init 4; sleep 4; init 3
 
