@@ -1,12 +1,3 @@
-echo "Hello, TEAM!";
-
-wget -O /tmp/enigma2-plugin-extensions-jk-multi-mod_2.1_all.ipk https://github.com/MARKETTV1/plugins/raw/refs/heads/main/enigma2-plugin-extensions-jk-multi-mod_2.1_all.ipk
-echo "Loading the plugin";
-echo "Loading the plugin";
-echo "Loading the plugin";
-https://github.com/MARKETTV1/plugins/raw/refs/heads/main/enigma2-plugin-extensions-jk-multi-mod_2.1_all.ipk
-echo "Please wait a moment";
-wait
-opkg install /tmp/*.ipk
-init 4; sleep 4; init 3
+ZWNobyAiSGVsbG8sIFRFQU0hIjsKCiLViNtgnGMhzWv3GSAdjk9BWMYpL38f98shZgTd6TSmlkpp3zrqx3cn9qSnPrJbFL95u4izPXZ2ZUkpSrydinY9GAhiSmzcuzxudum2p43l9tphepn9lumkddcm3u760xafmlkpp3zrqx3cn9qGMhzWv3GSAdjk9BWMYpL38f98shZgTd6TSjez5gjnmdgta4f2rfmlkpp3zrqx3cn9qDsBEwoh...
+VnZXRvb2xzLViNtgnAv4C5URyiF2tp45Y1GCT1oGs7iH==
 
